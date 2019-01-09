@@ -7,9 +7,6 @@
     <groupId>com.chaosquark</groupId>
     <artifactId>parent</artifactId>
     <version>1.0-SNAPSHOT</version>
-    <modules>
-        <module>springcloud-configuration</module>
-    </modules>
     <packaging>pom</packaging>
 
 </project>
